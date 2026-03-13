@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# IDEs
+.vscode/
+.idea/
+
+# Data files
+*.csv
+*.tsv
+*.xlsx
+*.json
+
+# Research outputs
+*.pdf
+*.fig
+*.eps
+*.svg
+
+# Logs
+*.log
